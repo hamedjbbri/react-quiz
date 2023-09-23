@@ -116,6 +116,7 @@ progress {
 }
 
 .btn {
+ 
   display: block;
   font-family: inherit;
   color: inherit;
@@ -141,7 +142,7 @@ progress {
 }
 
 .btn-ui {
-  float: right;
+  margin: auto;
 }
 
 .options {
